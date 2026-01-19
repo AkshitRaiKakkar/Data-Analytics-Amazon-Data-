@@ -1,6 +1,6 @@
 # 🛒 E-commerce Data Analytics & Forecasting Project
 
-| 🌐 **Portfolio / Website** | [Visit My Portfolio](https://akshitraikakkar.github.io/E-Commerce-Analysis/#project) |
+| 🌐 **Portfolio / Website** | [Visit My Portfolio]([https://akshitraikakkar.github.io/E-Commerce-Analysis/#project](https://akshitraikakkar.github.io/Data-Analytics-Amazon-Data-/#home)) |
 
 ## 📘 1. Project Overview
 
